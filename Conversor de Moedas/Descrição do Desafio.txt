@@ -1,0 +1,19 @@
+Descrição:
+
+Neste desafio, utilizando estruturas condicionais if e else e outros conceitos algorítmicos, crie uma solução para os funcionários de uma empresa bancária que precisam realizar transações internacionais, sendo fundamental uma opção em seus sistemas web que convertam valores de uma moeda para outra, com base em uma taxa de câmbio pré-definida pela equipe responsável. Desse modo, o seu programa deverá receber como entrada o valor necessário para a conversão, a moeda de origem e a moeda de destino. Em seguida, o valor deverá ser convertido e fornecer o resultado como saída.
+
+Entrada:
+
+O programa deve solicitar as seguintes informações:
+
+Valor para ser convertido (com até 2 casas decimais).
+
+Moeda de origem (por exemplo, "BRL" para real brasileiro).
+
+Moeda de destino (por exemplo, "USD" para dólar dos Estados Unidos).
+
+Saída:
+
+O programa deverá fornecer uma mensagem que informa o valor convertido na moeda de destino. A mensagem deve conter o valor, a moeda de origem, a moeda de destino e o valor convertido. O formato da mensagem de saída deve ser:
+
+"[valorDinheiro] [moedaOrigem] equivalem a [valorConvertido] [moedaDestino]."

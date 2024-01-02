@@ -1,0 +1,19 @@
+Descrição:
+
+Neste desafio, você deve criar uma solução que permita verificar o saldo de uma conta bancária. Utilize o conceito de funções, "if" e "else", entre outros, para a resolução. Dessa forma, o programa terá um valor fixo, simulando o saldo da conta, assim como um nome fixo representativo para o titular da conta. A interação ocorrerá quando o usuário escolher uma das três opções de verificação das informações da conta, sendo:
+
+[ 1 ] - Verifica o Saldo;
+[ 2 ] - Realiza um Depósito;
+[ 3 ] - Realizar Saque;
+
+Entrada:
+
+O programa espera receber como entrada números inteiros que representam as três opções disponíveis para a verificação das informações da conta. A entrada com o valor '1' representa a verificação de saldo, a entrada de número '2' representa a ação de depósito, e o valor '3' representa a ação de saque.
+
+Atenção:
+
+Em caso de entradas inválidas, como qualquer número diferente de 1, 2 ou 3, o programa deve fornecer uma mensagem de erro indicando que a opção é inválida: "Opcao invalida. Tente novamente".
+
+Saída:
+
+O programa deverá fornecer mensagens de saída informativas com base na ação selecionada e detalhadas na tabela a seguir.
